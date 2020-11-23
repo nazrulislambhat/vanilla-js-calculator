@@ -1,1 +1,1 @@
-# vanilla-js-calculator
+Available at https://nazrul-calculator.netlify.app
